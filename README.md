@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **full Stack Web Development**
+- 🌱 Completed **full Stack Web Development**
 
 - 📫 How to reach me **yuvipaji222002@gmail.com**
 

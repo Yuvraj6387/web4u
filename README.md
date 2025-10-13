@@ -47,11 +47,7 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
   </a>
 </p>
 
-#### 🔹 Job Notification Platform
-- *Tech Stack:* React, Node.js, Express, MongoDB, Tailwind CSS  
-- *Description:* Users can download job PDFs; analytics track downloads; fully responsive.  
-- *Live Demo:* [Click here](#)  
-- *Source Code:* [GitHub](https://github.com/Yuvraj6387/job-notification-platform)
+
 
 #### 🔹 Wanderlust
 - *Tech Stack:* React, AWS S3, Bootstrap  

@@ -23,7 +23,7 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 
 ### ⚡ Fun Coding Moment  
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBiMm9wZ25ucjJ3MW4zZzBlbjZsejVmZHNvNG9xZnFrdnd1OWhmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11vhCpFcD3um7m/giphy.gif" alt="Funny coding gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBiMm9wZ25ucjJ3MW4zZzBlbjZsejVmZHNvNG9xZnFrdnd1OWhmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11vhCpFcD3um7m/giphy.gif" alt="Funny coding gif" width="290"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI5cHd5dmpvcnIyOTIxaWhtb2s3NGExeWJhamxpOGttbTg2cnkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiRfN8fgoaJlGI9pbn/giphy.gif" alt="Funny coding gif" width="350"/>
 </p>
 

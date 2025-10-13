@@ -61,13 +61,13 @@ I love exploring *modern JavaScript frameworks, solving UI challenges, and const
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="http://www.linkedin.com/in/yuvraj-singh022" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourname@example.com">
+  <a href="mailto:yuvipaji222002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yuvraj-portfolio-link.com" target="_blank">
+  <a href="https://portfolio-webyuvraj.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Yuvraj6387" target="_blank">
@@ -78,7 +78,7 @@ I love exploring *modern JavaScript frameworks, solving UI challenges, and const
 ---
 
 ### ✨ Quote  
-> "Code. Create. Improve. Repeat."  
+> "**Code. Create. Improve. Repeat**."  
 
 ---
 

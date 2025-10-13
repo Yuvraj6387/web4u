@@ -38,7 +38,7 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 ### 💼 My Projects
 
 <p align="center">
-  <a href="https://github.com/Yuvraj6387/job-notification-platform" target="_blank">
+  <a href="https://zoom-18.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Job%20Notification%20Platform-View%20Project-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/Yuvraj6387/wanderlust" target="_blank">

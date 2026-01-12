@@ -60,7 +60,7 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 #### 🔹 GitHub Clone
 - *Tech Stack:* HTML, CSS, JavaScript, React, Node.js, MongoDB  
 - *Description:* Fully functional GitHub clone deployed on AWS, with login/signup features.  
-- *Live Demo:* [https://lnkd.in/d2HEx7Bg](#)  
+- *Live Demo:* [https://main.d33gexzak33tvk.amplifyapp.com/auth](#)  
 - *Source Code:* [GitHub](https://github.com/Yuvraj6387/github-clone)
 
 ---

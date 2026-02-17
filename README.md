@@ -48,8 +48,14 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 </p>
 
 #### 🔹 Portfolio
-- *Tech Stack:* HTML, CSS, JavaScript.
-- *Live Demo:* [YuvrajPortfolio](https://portfolio-webyuvraj.netlify.app/)
+<p align="center">
+  <a href="https://yuvraj-react-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Wanderlust-View%20Project-purple?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yuvraj6387/yuvraj-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Clone-View%20Project-green?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 #### 🔹 Wanderlust
 - *Tech Stack:* React, AWS S3, Bootstrap  

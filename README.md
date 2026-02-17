@@ -38,6 +38,8 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 
 ### 💼 My Projects
 
+#### 🔹 Wanderlust
+
 <p align="center">
   <a href="https://github.com/Yuvraj6387/wanderlust" target="_blank">
     <img src="https://img.shields.io/badge/Wanderlust-View%20Project-purple?style=for-the-badge&logo=github&logoColor=white"/>
@@ -57,17 +59,15 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
   </a>
 </p>
 
-#### 🔹 Wanderlust
-- *Tech Stack:* React, AWS S3, Bootstrap  
-- *Description:* Travel booking web app with full deployment on AWS.  
-- *Live Demo:* [https://wanderlust-4-zmxo.onrender.com/listings](#)  
-- *Source Code:* [GitHub](https://github.com/Yuvraj6387/wanderlust)
-
-#### 🔹 GitHub Clone
-- *Tech Stack:* HTML, CSS, JavaScript, React, Node.js, MongoDB  
-- *Description:* Fully functional GitHub clone deployed on AWS, with login/signup features.  
-- *Live Demo:* [https://main.d33gexzak33tvk.amplifyapp.com/auth](#)  
-- *Source Code:* [GitHub](https://github.com/Yuvraj6387/github-clone)
+#### 🔹 Zoom Clone
+<p align="center">
+  <a href="https://zoom-18.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Wanderlust-View%20Project-purple?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yuvraj6387/ZoomUI-Clone" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Clone-View%20Project-green?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 

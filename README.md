@@ -71,7 +71,7 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 
 ---
 
-
+#### 🔹 GitHub Stats
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Yuvraj6387&theme=react)

@@ -73,7 +73,7 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvraj6387&show_icons=true&theme=react)
 
 ### 🔥 Languages
 

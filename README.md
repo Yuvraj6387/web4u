@@ -71,11 +71,18 @@ I enjoy exploring *new technologies, learning by building, and constantly improv
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj6387&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj6387&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+
+### 🔥 Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
+
+### 📈 Contribution Streak
+
+![Streak Stats](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react)
+
 
 ---
 
